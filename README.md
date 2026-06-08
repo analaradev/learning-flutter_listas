@@ -1,16 +1,23 @@
-# listas
+# Flutter Listas
 
-A new Flutter project.
+Repositorio de aprendizaje para practicar listas, estructuras visuales y manejo de datos dentro de aplicaciones Flutter.
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Reforzar conceptos de desarrollo movil mediante ejercicios enfocados en la presentacion de informacion, componentes reutilizables y comportamiento de listas.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Practicas incluidas
+
+- Listas y elementos dinamicos
+- Componentes visuales
+- Navegacion basica
+- Manejo de datos en pantalla
+
+## Contexto
+
+Proyecto de practica personal para fortalecer bases de Flutter y desarrollo de interfaces.
